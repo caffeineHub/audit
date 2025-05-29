@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+ollama
+torch
+torchaudio
+faster-whisper
+resemble-enhance
+
+# Development and Testing Dependencies
+pytest
+httpx
+Jinja2 # Often a FastAPI/Uvicorn sub-dependency for web features
